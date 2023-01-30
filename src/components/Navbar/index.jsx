@@ -2,7 +2,8 @@ import React from 'react'
 const Navbar = () => {
   return (
     <nav class="navbar navbar-expand-lg btnColorr px-3 py-4">
-  {/* <img src="" class="sizing" /> */}
+          <img src="./favicon.ico" class="sizing" />
+          
 
   <button
     class="navbar-toggler togglerColor"
